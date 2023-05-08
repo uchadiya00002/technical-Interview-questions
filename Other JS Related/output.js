@@ -353,8 +353,10 @@ const result = Object.isFrozen(univerSalObj);
 
 // 35 How can we delay calling a function after 5 seconds?
 
-function generateMessage() {
-  console.log("I am Batman");
-}
+// function generateMessage() {
+//   console.log("I am Batman");
+// }
 
-setTimeout(generateMessage, 5000);
+// setTimeout(generateMessage, 5000);
+
+// 36

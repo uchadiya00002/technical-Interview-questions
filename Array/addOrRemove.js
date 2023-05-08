@@ -8,5 +8,4 @@ arr.unshift(0);
 arr.pop();
 // How do you add an element at the beginning of an array?
 arr.push(7);
-
 console.log(arr);
